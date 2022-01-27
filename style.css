@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+  }
+  
+  .margin-top-bottom-20px{
+    margin: 20px 0px;
+  }
+  .margin-bottom-20px{
+    margin-bottom: 20px;
+  }
+  
+  div{
+    position: relative;
+    background: royalblue;
+  }
+  
+  header{
+    height: 400px;
+    background: rebeccapurple;
+  }
+  
+  aside{
+    position: absolute;
+    background: royalblue;
+    width: 200px;
+    height: 500px;
+  }
+  
+  article{
+    background: palevioletred;
+    margin-left: 200px;
+    height: 300px;
+    border: 1px solid red;
+    padding: 20px 50px 20px 50px;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: whitesmoke;
+    text-transform: uppercase;
+  }
+  
+  footer{
+    background: powderblue;
+    height: 100px;
+  }
